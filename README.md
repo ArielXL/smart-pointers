@@ -53,4 +53,4 @@ $ ./run.sh <file_name>.cpp
 **Nombre** | **Correo** | **GitHub**
 --|--|--
 Ariel Plasencia Díaz | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL)
-Adriana Plasencia Díaz | adricivilpd@gmail.com | [@adria](https://github.com/adria)
+Adriana Plasencia Díaz | adricivilpd@gmail.com | [@adria](https://github.com/fcadrianapladia)
