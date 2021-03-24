@@ -1,5 +1,12 @@
 # Punteros inteligentes a partir de **C++11**
 
+## Sobre los autores
+
+**Nombre** | **Correo** | **GitHub**
+--|--|--
+Ariel Plasencia Díaz | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL)
+Adriana Plasencia Díaz | adricivilpd@gmail.com | [@adria](https://github.com/fcadrianapladia)
+
 ## Sobre esta pequeña tarea
 
 El objetivo de esta pequeña tarea es proporcionar algunos elementos sobre los llamados punteros inteligentes provistos por el lenguaje de programación ***C++11***, específicamente ***unique_ptr*** y ***shared_ptr***. También brindaremos una posible implementación a los punteros antes mencionado.
@@ -35,22 +42,15 @@ Son punteros pero con funcionalidades que evitan las desventajas y errores al us
 
 ## Sobre la implementación
 
-La implementación se encuentra totalmente en ***C++11***. Es recomendable tener conocimientos intermedios de este lenguaje de programación para un mejor entendimiento de las implementaciones propuestas.
+La implementación se encuentra totalmente en ***C++11***. Es recomendable tener conocimientos avanzados de este lenguaje de programación para una mayor y mejor comprensión de las implementaciones propuestas.
 
 ## Sobre la ejecución
 
-En el archivo [`run.sh`](Codigo/run.sh) proveemos una manera fácil, sencilla y rápida para correr nuestras implementaciones.
+En el archivo [`run.sh`](src/run.sh) proveemos una manera fácil, sencilla y rápida para correr nuestras implementaciones.
 
 Para la ejecución, escriba las siguientes líneas en una terminal abierta en este directorio:
 
 ```bash
-$ cd Codigo
+$ cd src
 $ ./run.sh <file_name>.cpp
 ```
-
-## Sobre los autores
-
-**Nombre** | **Correo** | **GitHub**
---|--|--
-Ariel Plasencia Díaz | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL)
-Adriana Plasencia Díaz | adricivilpd@gmail.com | [@adria](https://github.com/fcadrianapladia)
