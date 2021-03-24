@@ -5,7 +5,7 @@
 **Nombre** | **Correo** | **GitHub**
 --|--|--
 Ariel Plasencia Díaz | arielplasencia00@gmail.com | [@ArielXL](https://github.com/ArielXL)
-Adriana Plasencia Díaz | adricivilpd@gmail.com | [@adria](https://github.com/fcadrianapladia)
+Adriana Plasencia Díaz | adricivilpd@gmail.com | [@fcadrianapladia](https://github.com/fcadrianapladia)
 
 ## Sobre esta pequeña tarea
 
